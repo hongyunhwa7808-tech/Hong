@@ -1,0 +1,6 @@
+{
+  "name": "향기나무네 가계부",
+  "description": "선교 가정과 해외 거주 가정을 위한 몽골 투그릭(MNT) 및 원화(KRW) 듀얼 통화 품격있는 가계부",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
